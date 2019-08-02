@@ -1,3 +1,3 @@
-# hello-world
-just hello world changed comment
-test
+# helloDjango
+
+this project just a test . for learning Jenkins
